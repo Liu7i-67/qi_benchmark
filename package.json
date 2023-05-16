@@ -2,7 +2,7 @@
   "name": "@liu7i/qi_benchmark",
   "version": "1.0.0",
   "description": "function benchmark",
-  "main": "index.js",
+  "main": "index.ts",
   "homepage": "https://github.com/Liu7i-67/qi_benchmark",
   "bugs": "https://github.com/Liu7i-67/qi_benchmark/issues",
   "scripts": {
