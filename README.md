@@ -10,7 +10,7 @@
 ### 使用方法示例
 
 ```
-import { QBenchmark } from '@liu7i/qBenchmark';
+import { QBenchmark } from '@liu7i/qi_benchmark';
 
 // 实例化
 const benchmark = new QBenchmark();

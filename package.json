@@ -1,6 +1,6 @@
 {
   "name": "@liu7i/qi_benchmark",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "function benchmark",
   "main": "./lib/index.js",
   "homepage": "https://github.com/Liu7i-67/qi_benchmark",
