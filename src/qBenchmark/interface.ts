@@ -10,7 +10,7 @@ export interface IWorkList {
   name: string;
   /** @param 函数体 */
   taskContent: Function;
-  /** @param 需要执行的次数 默认为100 */
+  /** @param 需要执行的次数 默认为10 */
   numberOfTimes?: number;
 }
 

@@ -29,7 +29,7 @@ export class QBenchmark {
     this.runningResults = {};
     for (let i in this.workList) {
       const work = this.workList[i];
-      const times = work.numberOfTimes || 100;
+      const times = work.numberOfTimes || 10;
       let num = 0;
       const runningResult: IRecord[] = [];
       while (num < times) {
